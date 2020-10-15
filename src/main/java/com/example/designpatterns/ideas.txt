@@ -1,0 +1,14 @@
+Design patterns
+- creational: singleton, builder, factory method, abstract factory, object pool, prototype
+- structural: adapter, bridge, composite, decorator, facade, proxy
+- behavioral: chain of responsibility, command, interpreter, iterator, observer, strategy, visitor
+
+1. Creational patterns are all about class instantiation or object creation. They are further
+subdivided into class-creation-patterns or object-creational patterns.
+
+2. Structural patterns are designed with regard to a class's structure, composition and hierarchical
+links. The goal of these patterns is to increase the functionality of the classes involved, without
+chaning much of its composition.
+
+3. Behavioral patterns are designed to facilitate the communication between multiple classes.
+
